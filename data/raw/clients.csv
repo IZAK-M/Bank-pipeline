@@ -1,0 +1,11 @@
+client_id,nom,age,ville,segment
+C01,Marie Dupont,34,Paris,premium
+C02,Thomas Bernard,28,Lyon,standard
+C03,Sophie Martin,45,Marseille,premium
+C04,Lucas Petit,31,Bordeaux,standard
+C05,Emma Leroy,52,Paris,premium
+C06,Nathan Moreau,26,Nantes,standard
+C07,Camille Simon,39,Lyon,premium
+C08,Hugo Laurent,33,Strasbourg,standard
+C09,Léa Garcia,41,Nantes,premium
+C11,Julie David,57,Paris,premium

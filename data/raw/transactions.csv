@@ -1,0 +1,16 @@
+transaction_id,client_id,date,montant,type,categorie,statut,ville
+T001,C01,2024-01-05,150.00,achat,alimentation,validé,Paris
+T002,C02,2024-01-07,820.50,achat,électronique,validé,Lyon
+T003,C03,2024-01-08,45.00,virement,,validé,Marseille
+T004,C01,2024-01-10,310.00,achat,voyage,en attente,Paris
+T005,C04,2024-01-12,,achat,alimentation,validé,Bordeaux
+T006,C05,2024-01-15,95.00,achat, Électronique ,validé,
+T007,C02,2024-01-18,1200.00,achat,voyage,validé,Lyon
+T008,C06,2024-01-20,30.00,virement,alimentation,validé,Nantes
+T009,C07,2024-01-22,560.00,achat,électronique,en attente,
+T010,C03,2024-01-25,,,rejeté,Marseille
+T011,C08,2024-01-28,75.00,achat, alimentation,validé,Strasbourg
+T012,C01,2024-02-01,430.00,achat,voyage,validé,Paris
+T013,C09,2024-02-03,88.00,achat,alimentation,validé,Nantes
+T014,C10,2024-02-05,,achat, Voyage ,en attente,
+T015,C04,2024-02-08,640.00,achat,électronique,validé,Bordeaux
