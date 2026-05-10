@@ -1,0 +1,16 @@
+transaction_id,client_id,date,montant,type,categorie,statut,ville,frais,montant_net,niveau
+T001,C01,2024-01-05,150.0,achat,alimentation,validé,Paris,2.25,147.75,standard
+T002,C02,2024-01-07,820.5,achat,électronique,validé,Lyon,12.31,808.19,premium
+T003,C03,2024-01-08,45.0,virement,,validé,Marseille,0.68,44.32,standard
+T004,C01,2024-01-10,310.0,achat,voyage,en attente,Paris,4.65,305.35,standard
+T005,C04,2024-01-12,230.0,achat,alimentation,validé,Bordeaux,3.45,226.55,standard
+T006,C05,2024-01-15,95.0,achat,électronique,validé,Inconnu,1.42,93.58,standard
+T007,C02,2024-01-18,1200.0,achat,voyage,validé,Lyon,18.0,1182.0,premium
+T008,C06,2024-01-20,30.0,virement,alimentation,validé,Nantes,0.45,29.55,standard
+T009,C07,2024-01-22,560.0,achat,électronique,en attente,Inconnu,8.4,551.6,premium
+T010,C03,2024-01-25,230.0,,rejeté,Marseille,Inconnu,3.45,226.55,standard
+T011,C08,2024-01-28,75.0,achat,alimentation,validé,Strasbourg,1.12,73.88,standard
+T012,C01,2024-02-01,430.0,achat,voyage,validé,Paris,6.45,423.55,standard
+T013,C09,2024-02-03,88.0,achat,alimentation,validé,Nantes,1.32,86.68,standard
+T014,C10,2024-02-05,230.0,achat,voyage,en attente,Inconnu,3.45,226.55,standard
+T015,C04,2024-02-08,640.0,achat,électronique,validé,Bordeaux,9.6,630.4,premium
