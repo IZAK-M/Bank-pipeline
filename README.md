@@ -7,11 +7,11 @@ L’objectif est de convertir une source brute, hétérogène et parfois incohé
 
 ## Stack
 
-Python 3.13.5
-Pandas 2.3.2
+- Python 3.13.5
+- Pandas 2.3.2
 
 ## Structure
-
+```text
 bank-pipeline/
 ├── data/
 │   ├── raw/
@@ -20,11 +20,10 @@ bank-pipeline/
 ├── pipeline.py                  ← script principal
 ├── requirements.txt             ← stack du projet 
 └── README.md                    ← documentation du projet
-
+```
 ## Lancer le projet
 ```bash
 git clone https://github.com/ton-username/Bank-pipeline.git
-```
 
 cd Bank-pipeline
 
@@ -35,3 +34,4 @@ source venv/bin/activate  # Windows : venv\Scripts\activate
 pip install -r requirements.txt
 
 python pipeline.py
+```
