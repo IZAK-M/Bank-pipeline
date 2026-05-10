@@ -9,6 +9,7 @@ L’objectif est de convertir une source brute, hétérogène et parfois incohé
 
 - Python 3.13.5
 - Pandas 2.3.2
+- Openpyxl 3.1.5
 
 ## Structure
 ```text
@@ -17,6 +18,7 @@ bank-pipeline/
 │   ├── raw/
 │   │   └── transactions.csv     ← fichier brut a analyser
 │   └── export/                  ← datasets nettoyés prêts pour l'analyse
+├── pipeline.ipynb               ← script principal dans un notebook 
 ├── pipeline.py                  ← script principal
 ├── requirements.txt             ← stack du projet 
 └── README.md                    ← documentation du projet
